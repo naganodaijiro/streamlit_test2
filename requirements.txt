@@ -1,2 +1,1 @@
-streamlit
-dlib
+-r conda_requirements.txt
