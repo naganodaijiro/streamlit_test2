@@ -6,3 +6,4 @@ st.write("""
 Hello *world!*
 """)
 
+st.button("ボタン")
