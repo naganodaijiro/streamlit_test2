@@ -6,4 +6,3 @@ st.write("""
 Hello *world!*
 """)
 
-window = st.slider("Forecast window dayw")
