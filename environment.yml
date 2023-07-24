@@ -6,4 +6,4 @@ channels:
 dependencies:
   - python=3.10.10
   - streamlit=1.24.1
-  - pillow
+  - pillow=9.4.0
