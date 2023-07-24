@@ -1,8 +1,9 @@
 name: base
 channels:
   - conda-forge
+  - anaconda
+  - defaults
 dependencies:
   - python=3.10.10
   - streamlit=1.24.1
-  - pillow=9.4.0
-  - dlib=19.24.0  
+  - pillow
