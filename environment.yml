@@ -2,5 +2,5 @@ name: base
 dependencies:
  - python=3.10.10
  #- conda-forge::numpy=1.21.*
- - streamlit=1.24.1
- - conda-forge::pillow=9.4.0
+ - streamlit
+ - pillow=9.4.0
