@@ -1,6 +1,0 @@
-name: base
-dependencies:
- - python=3.10.10
- - conda-forge::numpy
- - streamlit
- - pillow=9.4.0
